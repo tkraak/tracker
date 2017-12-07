@@ -9,5 +9,7 @@ module.exports = {
     browser: true
   },
   rules: {
+    'no-empty': 0,
+    'semi': 2,
   }
 };
